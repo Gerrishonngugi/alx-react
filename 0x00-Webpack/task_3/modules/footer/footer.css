@@ -1,0 +1,11 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    border-top: 3px solid #e0354b;
+}
+
+footer p {
+    font-style: italic;
+}

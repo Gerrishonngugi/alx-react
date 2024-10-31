@@ -1,0 +1,15 @@
+button {
+    margin: 20px;
+    padding: 10px 20px;
+    background-color: #e0354b;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#count {
+    display: inline-block;
+    margin-left: 20px;
+    font-weight: bold;
+}
