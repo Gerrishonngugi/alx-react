@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alx-react/static/css/main.6576bf80.chunk.css",
+    "main.js": "/alx-react/static/js/main.745e63f5.chunk.js",
+    "main.js.map": "/alx-react/static/js/main.745e63f5.chunk.js.map",
+    "runtime-main.js": "/alx-react/static/js/runtime-main.5367bc4f.js",
+    "runtime-main.js.map": "/alx-react/static/js/runtime-main.5367bc4f.js.map",
+    "static/js/2.95caa904.chunk.js": "/alx-react/static/js/2.95caa904.chunk.js",
+    "static/js/2.95caa904.chunk.js.map": "/alx-react/static/js/2.95caa904.chunk.js.map",
+    "static/js/3.23a3652b.chunk.js": "/alx-react/static/js/3.23a3652b.chunk.js",
+    "static/js/3.23a3652b.chunk.js.map": "/alx-react/static/js/3.23a3652b.chunk.js.map",
+    "index.html": "/alx-react/index.html",
+    "precache-manifest.6bc5181f0c72d1211f5a30c754322c8a.js": "/alx-react/precache-manifest.6bc5181f0c72d1211f5a30c754322c8a.js",
+    "service-worker.js": "/alx-react/service-worker.js",
+    "static/css/main.6576bf80.chunk.css.map": "/alx-react/static/css/main.6576bf80.chunk.css.map",
+    "static/js/2.95caa904.chunk.js.LICENSE.txt": "/alx-react/static/js/2.95caa904.chunk.js.LICENSE.txt",
+    "static/media/holberton-logo.jpg": "/alx-react/static/media/holberton-logo.292deca1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5367bc4f.js",
+    "static/js/2.95caa904.chunk.js",
+    "static/css/main.6576bf80.chunk.css",
+    "static/js/main.745e63f5.chunk.js"
+  ]
+}
